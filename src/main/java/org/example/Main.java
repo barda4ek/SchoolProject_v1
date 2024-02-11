@@ -14,7 +14,6 @@ public class Main {
         car.met1(scan);
         car.met2(scan);
         System.in.close();
-
     }
 
 }
