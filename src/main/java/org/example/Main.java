@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-       /* check merge 9 branch
+       /* check merge 10 branch
         test for main*/
         Car car = new Car("aaa", 111);
 
