@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-       /* Evgenii branch
+       /* Michael's branch
         test for main*/
         Car car = new Car("aaa", 111);
 
