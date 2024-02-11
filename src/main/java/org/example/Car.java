@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Car {
 
 
-    static Scanner scanner = new Scanner(System.in);
+    //static Scanner scanner = new Scanner(System.in);
 
     public String met1(Scanner scan) {
         System.out.println("Введи 1: ");
