@@ -9,7 +9,7 @@ public class SportCar extends Car{
     }
 
 
-    @Test
+
     public void setNewCost(int a) {
         this.cost = a + 777;
     }
