@@ -9,6 +9,7 @@ public class Main {
     public static void main(String[] args) throws IOException {
         //Evgenii branch
         //test for main
+        //thi
         Car car = new Car("aaa", 111);
         Scanner scan = new Scanner(System.in);
         car.met1(scan);
